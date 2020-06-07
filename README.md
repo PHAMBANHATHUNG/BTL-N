@@ -1,6 +1,8 @@
 # BTL-N
 Bước 1: Kêt nối, tạo database QuanlyDT, 2 table DIENTHOAI và HANGSX
 ![image](https://user-images.githubusercontent.com/55781409/83945456-e8757900-a834-11ea-98a4-810091bb19bd.png)
+![image](https://user-images.githubusercontent.com/55781409/83957846-8a2cb280-a895-11ea-8c22-87238fb21e70.png)
+![image](https://user-images.githubusercontent.com/55781409/83957857-9ca6ec00-a895-11ea-84f2-68c8bc88ba0a.png)
 
 Bước 2: Đăng nhập tài khoản trong Visual Studio C# để kết nối database trong SQL server
 ![image](https://user-images.githubusercontent.com/55781409/83945510-4efa9700-a835-11ea-8e65-367c863d028c.png)
