@@ -11,3 +11,6 @@ Bước 3: Sau khi Đăng Nhập thành công sẽ hiển thị bảng quản l�
 ![image](https://user-images.githubusercontent.com/55781409/83945558-bb759600-a835-11ea-973b-68971ee454d1.png)
 
 Bước 4: Lựa chọn để Cập nhật, xóa DT(lưu ý không để trống thông tin)
+Phần Demo:
+Xem Hàng ĐT:
+![image](https://user-images.githubusercontent.com/55781409/87912569-cc9dfd80-ca97-11ea-882d-1614c91ebbcb.png)
